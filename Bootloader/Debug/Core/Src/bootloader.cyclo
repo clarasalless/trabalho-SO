@@ -1,0 +1,6 @@
+../Core/Src/bootloader.c:3:6:bootloaderInit	10
+../Core/Src/bootloader.c:49:10:readWord	1
+../Core/Src/bootloader.c:56:6:jumpToApp	1
+../Core/Src/bootloader.c:68:6:deinitEverything	1
+../Core/Src/bootloader.c:83:9:string_compare	4
+../Core/Src/bootloader.c:97:6:errorBlink	1
